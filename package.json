@@ -2,12 +2,12 @@
   "private": true,
   "name": "remix-app-template-js",
   "description": "",
-  // "main": "app/routes/index.js",
+  "main": "app/routes/index.js",
   "license": "",
   "scripts": {
     "build": "remix build",
     "dev": "remix run",
-    "postinstall": "remix setup node",
+    "postinstall": "remix setup",
     "start": "remix-serve build"
   },
   "dependencies": {
