@@ -2,7 +2,7 @@
   "private": true,
   "name": "remix-app-template-js",
   "description": "",
-  "main": "app/routes/index.js",
+  // "main": "app/routes/index.js",
   "license": "",
   "scripts": {
     "build": "remix build",
